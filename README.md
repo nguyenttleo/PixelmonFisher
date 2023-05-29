@@ -71,9 +71,7 @@ To use PixelmonFisher and automate fishing in Pixelmon, follow these steps:
 
    - You can stop the fishing process by clicking the "Stop Fishing" option in the program menu or by using the provided `stopMessage.png` image to automatically detect the stop message.
 
-8
-
-. Enjoy automated fishing in Pixelmon Minecraft with PixelmonFisher!
+8. Enjoy automated fishing in Pixelmon Minecraft with PixelmonFisher!
 
 ## Compiling the Code into an Executable
 
